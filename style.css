@@ -1,0 +1,37 @@
+.casa {
+	
+	height : 150px;
+	
+	font-size: 100px;
+	text-align: center;
+	
+}
+
+
+.main {
+	width: 660px;
+	margin:0 auto;
+}
+
+img { 
+	margin: 0 0 0 0;
+
+
+}
+
+
+.jumbotron {
+    padding-top: 1px;
+    padding-bottom: 0px;
+}
+
+
+#pontos{
+	margin: 0 0 0 500px;
+	fint-size: 25px;
+}
+
+.col-xs-4 {
+
+	width: 20%;
+}
